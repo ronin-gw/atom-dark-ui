@@ -9,7 +9,7 @@ atom-text-editor[mini], atom-text-editor[mini]::shadow {
   border-radius: @component-border-radius;
   padding-left: @component-padding/2;
 
-  .cursor { border-color: #fff; }
+  .cursor { border-color: @color-cursor; }
   .selection .region { background-color: lighten(@input-background-color, 10%); }
 }
 
@@ -23,4 +23,6 @@ atom-text-editor, atom-text-editor::shadow {
   .gutter.drop-shadow {
     -webkit-box-shadow: -2px 0 10px 2px #222;
   }
+
+  .cursor, :host .cursor {color: @color-cursor}
 }
