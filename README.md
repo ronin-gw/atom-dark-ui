@@ -2,4 +2,4 @@
 
 A dark UI theme for Atom.
 
-![](http://owncloud.a-fal.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=2482&y=1912&a=true&file=glacier.png&t=t2uewlEh8lpiWP4&scalingup=0)
+![](http://owncloud.a-fal.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=2482&y=1912&a=true&file=glacier.png&t=hJ2bKGCzrokvYFM&scalingup=0)
